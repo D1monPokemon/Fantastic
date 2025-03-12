@@ -31,10 +31,12 @@ nav a{
 nav{
   background-color:lightblue;
   padding:10px;
+  border-radius:10px;
 }
 h1{
   background-color:lightblue;
   color:darkblue;
+  border-radius:10px;
 }
 .shari{
   border:1px solid orange;
