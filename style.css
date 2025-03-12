@@ -2,7 +2,7 @@ header{
   background-color:lightblue;
   padding:10px;
   border-radius:15px;
-  margin:10px;
+  margin:10px
 }
 body {
     font-family: sans-serif;
@@ -22,7 +22,7 @@ nav a{
   border:3px solid navy;
   background-color:navy;
   border-radius:10px;
-  padding:5px;
+  padding:5px
 }
 .produkciya{
   background-color:white;
@@ -31,30 +31,30 @@ nav a{
 nav{
   background-color:lightblue;
   padding:10px;
-  border-radius:10px;
+  border-radius:5px;
 }
 h1{
   background-color:lightblue;
   color:darkblue;
-  border-radius:10px;
+  border-radius:5px;
 }
 .shari{
   border:1px solid orange;
   border-radius:5px;
   background-color:orange;
-  font-size:17px;
+  font-size:17px
 }
 .fontans{
   border-radius:10px;
   border:1px solid orange;
   background-color:orange;
-  font-size:17px;
+  font-size:17px
 }
 .petardi{
   border-radius:10px;
   border:1px solid orange;
   background-color:orange;
-  font-size:17px;
+  font-size:17px
 }
 .hlopyshki{
   border-radius:10px;
@@ -63,17 +63,17 @@ h1{
   font-size:17px
 }
 p{
-  font-size:20px;
+  font-size:20px
 }
 h2{
-  color:blue;
+  color:blue
 }
 a{
   text-decoration:none;
   color:green;
-  font-size:20px;
+  font-size:20px
 }
 footer{
   background-color:gray;
-  border-radius:5px;
+  border-radius:5px
 }
