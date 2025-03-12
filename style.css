@@ -1,0 +1,77 @@
+header{
+  background-color:lightblue;
+  padding:10px;
+  border-radius:15px;
+  margin:10px;
+}
+body {
+    font-family: sans-serif;
+}
+header a{
+  text-decoration:none;
+  color:blue;
+  background-color:white;
+  border-radius:10px;
+  padding:5px;
+}
+nav a{
+  margin:20px;
+  font-size:15px;
+  text-decoration:none;
+  color:white;
+  border:3px solid navy;
+  background-color:navy;
+  border-radius:10px;
+  padding:5px;
+}
+.produkciya{
+  background-color:white;
+  color:blue
+}
+nav{
+  background-color:lightblue;
+  padding:10px;
+}
+h1{
+  background-color:lightblue;
+  color:darkblue;
+}
+.shari{
+  border:1px solid orange;
+  border-radius:5px;
+  background-color:orange;
+  font-size:17px;
+}
+.fontans{
+  border-radius:10px;
+  border:1px solid orange;
+  background-color:orange;
+  font-size:17px;
+}
+.petardi{
+  border-radius:10px;
+  border:1px solid orange;
+  background-color:orange;
+  font-size:17px;
+}
+.hlopyshki{
+  border-radius:10px;
+  border:1px solid orange;
+  background-color:orange;
+  font-size:17px
+}
+p{
+  font-size:20px;
+}
+h2{
+  color:blue;
+}
+a{
+  text-decoration:none;
+  color:green;
+  font-size:20px;
+}
+footer{
+  background-color:gray;
+  border-radius:5px;
+}
